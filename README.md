@@ -21,4 +21,4 @@
   (Virtual Device/Emulation requires Android SDK)
 
 &emsp;In case you run into problems, or these steps were inadequate, please refer to React Native's official [documentation](https://reactnative.dev/docs/environment-setup) for "Setting up  
-&emsp;the development environment."
+&emsp;the development environment." It may be worth noting that I opted to go the `React Native CLI` route, rather than Expo Go.  
