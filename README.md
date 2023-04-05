@@ -20,5 +20,5 @@
 - npx react-native run-android
   (Virtual Device/Emulation requires Android SDK)
 
-&emsp;In case you run into problems, or these steps were inadequate, please refer to React Native's official [documentation](https://reactnative.dev/docs/getting-started) for "Setting up  
+&emsp;In case you run into problems, or these steps were inadequate, please refer to React Native's official [documentation](https://reactnative.dev/docs/environment-setup) for "Setting up  
 &emsp;the development environment."
